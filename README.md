@@ -124,7 +124,7 @@ Attached disks were identified.
 
 The suspect disk and destination disk were identified based on size and attached device configuration.
 
-### Screenshot Placeholder
+### Screenshot
 ![Fdisk output](screenshots/fdisk.png)
 
 ---
@@ -221,7 +221,7 @@ log
 | log | Imaging activity log |
 
 ### Screenshot
-![Generated Evidence Files](screenshots/evidence.png)
+![Generated Evidence Files](screenshots/evidence_file.png)
 
 ---
 
